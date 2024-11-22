@@ -6,6 +6,7 @@ function Header() {
     shadow-lg
     px-5
     py-5
+    w-full
     "
     >
       <h1
